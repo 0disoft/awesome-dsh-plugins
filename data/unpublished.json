@@ -4,9 +4,9 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-10-10",
+  "checked": "2026-10-11",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 803,
+  "count": 807,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -1379,6 +1379,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "JohnXu22786/command-scout",
+      "npm": "dsh-command-scout",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-11"
+    },
+    {
       "repo": "the-qian/dsh-commit-review",
       "npm": "dsh-commit-review",
       "why": "no such package",
@@ -1443,6 +1449,12 @@
       "npm": "dsh-context-dashboard",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "JohnXu22786/context-pruner",
+      "npm": "dsh-context-triage",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-11"
     },
     {
       "repo": "Fiker1203/dsh-conversation-nav",
@@ -1606,6 +1618,12 @@
       "npm": "dsh-diary",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "JohnXu22786/docgen",
+      "npm": "dsh-docgen",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-11"
     },
     {
       "repo": "sublatesublate-design/dsh-doctor-windows",
@@ -2257,6 +2275,12 @@
       "npm": "dsh-live-reload",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "victorwads/dsh-live-voice",
+      "npm": "dsh-live-voice",
+      "why": "published by wads-dev/dsh-live-voice",
+      "since": "2026-10-11"
     },
     {
       "repo": "ankesu/dsh-live2d-pet",
