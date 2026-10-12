@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-12",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 807,
+  "count": 808,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -4107,6 +4107,12 @@
       "npm": "dsh-suggest",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "WuJiaoJue/dsh-suggest-ghost",
+      "npm": "dsh-suggest-ghost",
+      "why": "published by dsh-plugins/dsh-suggest-ghost",
+      "since": "2026-10-12"
     },
     {
       "repo": "khiqwq/dsh-system-proxy",
