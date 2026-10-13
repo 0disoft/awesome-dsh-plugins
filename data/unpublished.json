@@ -4,9 +4,9 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-10-12",
+  "checked": "2026-10-13",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 808,
+  "count": 817,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -1330,6 +1330,12 @@
       "since": "2026-10-01"
     },
     {
+      "repo": "zoahdev/dsh-cn-boot",
+      "npm": "dsh-cn-boot",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-13"
+    },
+    {
       "repo": "Dominic789654/awesome-deepseek-harness",
       "path": "plugins/dsh-code-review",
       "npm": "dsh-code-review",
@@ -1590,6 +1596,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "zoahdev/dsh-dep-audit",
+      "npm": "dsh-dep-audit",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-13"
+    },
+    {
       "repo": "zhaiyateng/dsh-design-skills",
       "npm": "dsh-design-skills",
       "why": "no such package",
@@ -1618,6 +1630,18 @@
       "npm": "dsh-diary",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "zoahdev/dsh-discussions-radar",
+      "npm": "dsh-discussions-radar",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-13"
+    },
+    {
+      "repo": "zoahdev/dsh-disk-audit",
+      "npm": "dsh-disk-audit",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-13"
     },
     {
       "repo": "JohnXu22786/docgen",
@@ -1844,6 +1868,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "zoahdev/dsh-firstrun",
+      "npm": "dsh-firstrun",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-13"
+    },
+    {
       "repo": "rootkiller6788/dsh-flow",
       "npm": "dsh-flow",
       "why": "2 listed repos declare this name and the package states no repository",
@@ -1932,6 +1962,12 @@
       "npm": "dsh-git-worktree",
       "why": "published by wloops/dsh-git-worktree",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "zoahdev/dsh-github-intelligence",
+      "npm": "dsh-github-intelligence",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-13"
     },
     {
       "repo": "Noob-stupid/dsh-github-login",
@@ -2349,6 +2385,12 @@
       "npm": "dsh-llm-oauth",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "zoahdev/dsh-llms-forge",
+      "npm": "dsh-llms-forge",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-13"
     },
     {
       "repo": "imdeniil/dsh-locale-ru",
@@ -3529,6 +3571,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "zoahdev/dsh-readme-forge",
+      "npm": "dsh-readme-forge",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-13"
+    },
+    {
       "repo": "flyemFSB/dsh-reasoning-effort-hdbzq",
       "npm": "dsh-reasoning-effort-hdbzq",
       "why": "no such package",
@@ -4241,6 +4289,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "zoahdev/dsh-timesheet",
+      "npm": "dsh-timesheet",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-13"
+    },
+    {
       "repo": "spoon-man569/dsh-token-price",
       "npm": "dsh-token-price",
       "why": "2 listed repos declare this name and the package states no repository",
@@ -4453,64 +4507,64 @@
       "since": "2026-09-29"
     },
     {
-      "repo": "HarryLi-7/dsh-vision",
-      "npm": "dsh-vision",
-      "why": "10 listed repos declare this name and the package states no repository",
-      "since": "2026-10-02"
-    },
-    {
-      "repo": "joyiok/dsh-vision",
-      "npm": "dsh-vision",
-      "why": "10 listed repos declare this name and the package states no repository",
-      "since": "2026-10-02"
-    },
-    {
-      "repo": "lakeofsky347/dsh-vision",
-      "npm": "dsh-vision",
-      "why": "10 listed repos declare this name and the package states no repository",
-      "since": "2026-10-02"
-    },
-    {
-      "repo": "reimu-create/dsh-vision",
-      "npm": "dsh-vision",
-      "why": "10 listed repos declare this name and the package states no repository",
-      "since": "2026-10-02"
-    },
-    {
-      "repo": "sjakdhasdh/dsh-vision",
-      "npm": "dsh-vision",
-      "why": "10 listed repos declare this name and the package states no repository",
-      "since": "2026-10-02"
-    },
-    {
-      "repo": "Terry12138qy/dsh-vision",
-      "npm": "dsh-vision",
-      "why": "10 listed repos declare this name and the package states no repository",
-      "since": "2026-10-02"
-    },
-    {
-      "repo": "Wenjin-111/dsh-vision",
-      "npm": "dsh-vision",
-      "why": "10 listed repos declare this name and the package states no repository",
-      "since": "2026-10-02"
-    },
-    {
-      "repo": "xiaoshihou514/dsh-vision",
-      "npm": "dsh-vision",
-      "why": "10 listed repos declare this name and the package states no repository",
-      "since": "2026-10-02"
-    },
-    {
       "repo": "zoahdev/dsh-vision",
       "npm": "dsh-vision",
       "why": "10 listed repos declare this name and the package states no repository",
       "since": "2026-10-02"
     },
     {
+      "repo": "HarryLi-7/dsh-vision",
+      "npm": "dsh-vision",
+      "why": "9 listed repos declare this name and the package states no repository",
+      "since": "2026-10-13"
+    },
+    {
+      "repo": "joyiok/dsh-vision",
+      "npm": "dsh-vision",
+      "why": "9 listed repos declare this name and the package states no repository",
+      "since": "2026-10-13"
+    },
+    {
+      "repo": "lakeofsky347/dsh-vision",
+      "npm": "dsh-vision",
+      "why": "9 listed repos declare this name and the package states no repository",
+      "since": "2026-10-13"
+    },
+    {
+      "repo": "reimu-create/dsh-vision",
+      "npm": "dsh-vision",
+      "why": "9 listed repos declare this name and the package states no repository",
+      "since": "2026-10-13"
+    },
+    {
+      "repo": "sjakdhasdh/dsh-vision",
+      "npm": "dsh-vision",
+      "why": "9 listed repos declare this name and the package states no repository",
+      "since": "2026-10-13"
+    },
+    {
+      "repo": "Terry12138qy/dsh-vision",
+      "npm": "dsh-vision",
+      "why": "9 listed repos declare this name and the package states no repository",
+      "since": "2026-10-13"
+    },
+    {
+      "repo": "Wenjin-111/dsh-vision",
+      "npm": "dsh-vision",
+      "why": "9 listed repos declare this name and the package states no repository",
+      "since": "2026-10-13"
+    },
+    {
+      "repo": "xiaoshihou514/dsh-vision",
+      "npm": "dsh-vision",
+      "why": "9 listed repos declare this name and the package states no repository",
+      "since": "2026-10-13"
+    },
+    {
       "repo": "zzy6-a/vision-use",
       "npm": "dsh-vision",
-      "why": "10 listed repos declare this name and the package states no repository",
-      "since": "2026-10-02"
+      "why": "9 listed repos declare this name and the package states no repository",
+      "since": "2026-10-13"
     },
     {
       "repo": "babutiger/dsh-vision-auto",
