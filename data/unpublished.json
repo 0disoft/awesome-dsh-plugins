@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-13",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 817,
+  "count": 820,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -1053,6 +1053,12 @@
       "npm": "dsh-auto-translate",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "EveGoodEvening/dsh-autoresearch",
+      "npm": "dsh-autoresearch",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-13"
     },
     {
       "repo": "Whning0513/awesome-deepseek-skills",
@@ -4877,6 +4883,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "jingzhao-l/iterate-plugin",
+      "npm": "iterate-plugin",
+      "why": "published by jingzhao-l/iterate-skill",
+      "since": "2026-10-13"
+    },
+    {
       "repo": "fieldnote-ops/keyringseam",
       "npm": "keyringseam",
       "why": "no such package",
@@ -4911,6 +4923,13 @@
       "npm": "nomos-skill",
       "why": "published by 240xu/tech-lead-skill",
       "since": "2026-09-30"
+    },
+    {
+      "repo": "StarChen-Cycler/octie-dsh-plugin",
+      "path": "octie",
+      "npm": "octie-cli",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-13"
     },
     {
       "repo": "YYTbit/oh-my-dsh",
