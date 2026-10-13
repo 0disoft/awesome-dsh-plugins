@@ -14,9 +14,9 @@
   "rejected": 2841,
   "rejectedRecheck": 2804,
   "coverage": {
-    "measured": "2026-10-12",
-    "topic": 21731,
-    "decided": 20236,
+    "measured": "2026-10-13",
+    "topic": 21794,
+    "decided": 20184,
     "rejected": 2841,
     "noInstallPath": 2469
   },
