@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-14",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 821,
+  "count": 822,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -2287,6 +2287,12 @@
       "npm": "dsh-lark-meeting-notifier",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "WuJiaoJue/dsh-later",
+      "npm": "dsh-later",
+      "why": "published by dsh-plugins/dsh-later",
+      "since": "2026-10-14"
     },
     {
       "repo": "condaThinker/dsh-left-sidebar-collapse",
