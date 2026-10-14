@@ -4,9 +4,9 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-10-13",
+  "checked": "2026-10-14",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 820,
+  "count": 821,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -2397,6 +2397,12 @@
       "npm": "dsh-llms-forge",
       "why": "published by nobody — the package states no repository and the repo does not claim the name",
       "since": "2026-10-13"
+    },
+    {
+      "repo": "rbstxt/dsh-locale-ja",
+      "npm": "dsh-locale-ja",
+      "why": "published by gepeiyu/dsh-locale-ja",
+      "since": "2026-10-14"
     },
     {
       "repo": "imdeniil/dsh-locale-ru",
