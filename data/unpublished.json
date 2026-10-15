@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-15",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 822,
+  "count": 824,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -1055,10 +1055,10 @@
       "since": "2026-09-29"
     },
     {
-      "repo": "EveGoodEvening/dsh-autoresearch",
+      "repo": "aa2246740/dsh-autoresearch",
       "npm": "dsh-autoresearch",
-      "why": "published by nobody — the package states no repository and the repo does not claim the name",
-      "since": "2026-10-13"
+      "why": "published by evegoodevening/dsh-autoresearch",
+      "since": "2026-10-15"
     },
     {
       "repo": "Whning0513/awesome-deepseek-skills",
@@ -1702,6 +1702,12 @@
       "npm": "dsh-drop-in",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "zlZayn/dsh-ds-balance",
+      "npm": "dsh-ds-balance",
+      "why": "published by dsh-plugin-lab/dsh-ds-balance",
+      "since": "2026-10-15"
     },
     {
       "repo": "wacly/dsh-dynamic-plugin-manage",
@@ -4850,6 +4856,12 @@
       "npm": "dsh-zh-hant-hk",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "zlZayn/dsh-zhihu-search",
+      "npm": "dsh-zhihu-search",
+      "why": "published by dsh-plugin-lab/dsh-zhihu-search",
+      "since": "2026-10-15"
     },
     {
       "repo": "Wechsels/dsh-zotero-wiki",
