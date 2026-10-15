@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-15",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 824,
+  "count": 825,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -1322,6 +1322,12 @@
       "npm": "dsh-client-ui-voice-input",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "SuperWheel/cliworker-now",
+      "npm": "dsh-cliworker-now",
+      "why": "published by superwheel/dsh-cliworker-now",
+      "since": "2026-10-15"
     },
     {
       "repo": "maxiaovivi/dsh-cloak-browser",
