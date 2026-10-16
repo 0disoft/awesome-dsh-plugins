@@ -4,9 +4,9 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-10-15",
+  "checked": "2026-10-16",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 825,
+  "count": 834,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -806,6 +806,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "keleus/deepseek-pet",
+      "npm": "deepseek-pet",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-16"
+    },
+    {
       "repo": "xyidong/deepseek-usage-info-check",
       "npm": "deepseek-usage-info",
       "why": "no such package",
@@ -1469,6 +1475,12 @@
       "since": "2026-09-29"
     },
     {
+      "repo": "hj01857655/dsh-context-memory",
+      "npm": "dsh-context-memory",
+      "why": "published by hj01857655/dsh-plugins",
+      "since": "2026-10-16"
+    },
+    {
       "repo": "JohnXu22786/context-pruner",
       "npm": "dsh-context-triage",
       "why": "published by nobody — the package states no repository and the repo does not claim the name",
@@ -1510,6 +1522,12 @@
       "npm": "dsh-cost-meter",
       "why": "published by han-1413141/dsh-cost-meter",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "hj01857655/dsh-cost-track",
+      "npm": "dsh-cost-track",
+      "why": "published by hj01857655/dsh-plugins",
+      "since": "2026-10-16"
     },
     {
       "repo": "xiaohj233/dsh-credential-handoff",
@@ -2750,6 +2768,12 @@
       "since": "2026-09-29"
     },
     {
+      "repo": "hj01857655/dsh-model-arena",
+      "npm": "dsh-model-arena",
+      "why": "published by hj01857655/dsh-plugins",
+      "since": "2026-10-16"
+    },
+    {
       "repo": "lhwwxy/dsh-model-deploy",
       "npm": "dsh-model-deploy",
       "why": "2 listed repos declare this name and the package states no repository",
@@ -3505,6 +3529,12 @@
       "since": "2026-10-07"
     },
     {
+      "repo": "hj01857655/dsh-prompt-vcs",
+      "npm": "dsh-prompt-vcs",
+      "why": "published by hj01857655/dsh-plugins",
+      "since": "2026-10-16"
+    },
+    {
       "repo": "Chhlafiu4312/promptwall",
       "npm": "dsh-promptwall",
       "why": "no such package",
@@ -4162,6 +4192,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "hj01857655/dsh-step-trace",
+      "npm": "dsh-step-trace",
+      "why": "published by hj01857655/dsh-plugins",
+      "since": "2026-10-16"
+    },
+    {
       "repo": "Awu12277/dsh-stock-watch",
       "npm": "dsh-stock-watch",
       "why": "2 listed repos declare this name and the package states no repository",
@@ -4374,6 +4410,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "hj01857655/dsh-tool-stats",
+      "npm": "dsh-tool-stats",
+      "why": "published by hj01857655/dsh-plugins",
+      "since": "2026-10-16"
+    },
+    {
       "repo": "qq1376868542-lang/dsh-tools",
       "npm": "dsh-tools",
       "why": "published by lokiggo/dsh-tools",
@@ -4529,6 +4571,12 @@
       "npm": "dsh-user-plugins-manager",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "hj01857655/dsh-verdict",
+      "npm": "dsh-verdict",
+      "why": "published by hj01857655/dsh-plugins",
+      "since": "2026-10-16"
     },
     {
       "repo": "yepyeel/dsh-vision",
@@ -4844,6 +4892,12 @@
       "npm": "dsh-wsl-workspace",
       "why": "published by dsh-wsl-workspace-maintainers/dsh-wsl-workspace",
       "since": "2026-09-30"
+    },
+    {
+      "repo": "XDTrees/dsh-workbuddy-xdpool",
+      "npm": "dsh-xdpool",
+      "why": "published by xdtrees/dsh-xdpool",
+      "since": "2026-10-16"
     },
     {
       "repo": "xuboboo/dsh-xiaohongshu-viral-note",
