@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-16",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 834,
+  "count": 833,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -4965,12 +4965,6 @@
       "npm": "hermes-to-dsh",
       "why": "no such package",
       "since": "2026-08-21"
-    },
-    {
-      "repo": "jingzhao-l/iterate-plugin",
-      "npm": "iterate-plugin",
-      "why": "published by jingzhao-l/iterate-skill",
-      "since": "2026-10-13"
     },
     {
       "repo": "fieldnote-ops/keyringseam",

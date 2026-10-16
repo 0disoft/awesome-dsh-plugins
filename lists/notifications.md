@@ -8,7 +8,7 @@ Alerting the human: desktop, sound, even a phone call.
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
-| dsh-notification | 89 | [omdsh-dev/dsh-notification](https://github.com/omdsh-dev/dsh-notification) | Desktop notifications for turn completions, with per-outcome controls and include/exclude keyword rules | 0.1.0-rc.8 (2026-08-20) |
+| dsh-notification | 88 | [omdsh-dev/dsh-notification](https://github.com/omdsh-dev/dsh-notification) | Desktop notifications for turn completions, with per-outcome controls and include/exclude keyword rules | 0.1.0-rc.8 (2026-08-20) |
 | dsh-personal-workbench | 35 | [Dely0/dsh-personal-workbench](https://github.com/Dely0/dsh-personal-workbench) · [npm](https://www.npmjs.com/package/@dely0/dsh-personal-workbench) | DSH 个人工作台：日历 + 层级任务 + AI 澄清/拆解/执行/复盘 + AI 智能排序/日报周报 + 桌面提醒 | 0.1.0-rc.8 (2026-08-20) |
 | dsh-notify-me | 33 | [chromoany/dsh-notify-me](https://github.com/chromoany/dsh-notify-me) · [npm](https://www.npmjs.com/package/dsh-notify-me) | DSH 桌面消息提醒插件：模型需要你操作（审批/方案确认/提问的可操作提醒）或回复在后台完成时，系统通知+提示音+标签页标题提醒你；可在设置页开关并切换通知语言。Desktop notification & message alerts for DeepSeek Harness web — toasts, sounds and a tab-title marker when the agent | 0.1.7-rc.2 (2026-09-29) |
 | dsh-web-ui-notify | 33 | [bill9109/dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) | Desktop notifications for approvals, questions, and turn completion so you can leave the dsh tab. | 0.1.0-rc.8 (2026-08-20) |
