@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-17",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 865,
+  "count": 863,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -2303,12 +2303,6 @@
       "since": "2026-09-29"
     },
     {
-      "repo": "OMSociety/dsh-ppt-maker",
-      "npm": "dsh-kimi-ppt",
-      "why": "published by omsociety/dsh-kimi-ppt",
-      "since": "2026-10-17"
-    },
-    {
       "repo": "MicroHEROX/dsh-Kimi-WebBridge",
       "npm": "dsh-kimi-webbridge",
       "why": "2 listed repos declare this name and the package states no repository",
@@ -3068,18 +3062,6 @@
       "npm": "dsh-otel",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
-    },
-    {
-      "repo": "Ebony-Vinyl/dsh-our-free-model",
-      "npm": "dsh-our-free-model",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-10-17"
-    },
-    {
-      "repo": "Fish-under-sea/dsh-our-free-model-fish",
-      "npm": "dsh-our-free-model",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-10-17"
     },
     {
       "repo": "ZhijiangTang/dsh-password",
@@ -5144,6 +5126,12 @@
       "npm": "geometry-knowledge",
       "why": "published by sdoygb/geometry-knowledge",
       "since": "2026-08-26"
+    },
+    {
+      "repo": "imMamdouhaboammar/get-fable",
+      "npm": "get-fable",
+      "why": "published by immamdouhaboammar/get-fable-core",
+      "since": "2026-10-17"
     },
     {
       "repo": "Cavan-Ou/hermes-dsh-collab",
