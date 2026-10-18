@@ -4,9 +4,9 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-10-17",
+  "checked": "2026-10-18",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 863,
+  "count": 867,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -1056,6 +1056,12 @@
       "since": "2026-10-01"
     },
     {
+      "repo": "JohnXu22786/auditrail",
+      "npm": "dsh-audit-trail",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-18"
+    },
+    {
       "repo": "Stormycry-cryp/dsh-AuthInOne",
       "npm": "dsh-auth-in-one",
       "why": "no such package",
@@ -1511,6 +1517,18 @@
       "npm": "dsh-context-dashboard",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "kpl0111/dsh-context-guard",
+      "npm": "dsh-context-guard",
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
+    },
+    {
+      "repo": "woody20100715-collab/dsh-context-guard",
+      "npm": "dsh-context-guard",
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "hj01857655/dsh-context-memory",
@@ -3115,15 +3133,21 @@
       "repo": "Swwag666/DSH_Phone_Swag",
       "path": "dsh-phone/plugin/dsh-phone-bridge",
       "npm": "dsh-phone-bridge",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-10-07"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "KaiyeZeng/dsh-phone-bridge",
       "path": "dsh-plugin",
       "npm": "dsh-phone-bridge",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-10-07"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
+    },
+    {
+      "repo": "chs-1108/dsh-phone-bridge",
+      "npm": "dsh-phone-bridge",
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "chintoleung/dsh-ping",
@@ -3937,12 +3961,6 @@
       "since": "2026-10-07"
     },
     {
-      "repo": "imtokenxinluo/dsh-session-doctor",
-      "npm": "dsh-session-doctor",
-      "why": "3 listed repos declare this name and the package states no repository",
-      "since": "2026-10-07"
-    },
-    {
       "repo": "luoxin10086/dsh-session-doctor",
       "npm": "dsh-session-doctor",
       "why": "3 listed repos declare this name and the package states no repository",
@@ -3969,20 +3987,26 @@
     {
       "repo": "CHIP-PHILO-GH/dsh-session-search",
       "npm": "dsh-session-search",
-      "why": "3 listed repos declare this name and the package states no repository",
-      "since": "2026-10-17"
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "ivanearisty/dsh-session-search",
       "npm": "dsh-session-search",
-      "why": "3 listed repos declare this name and the package states no repository",
-      "since": "2026-10-17"
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "Li-0803/dsh-session-search",
       "npm": "dsh-session-search",
-      "why": "3 listed repos declare this name and the package states no repository",
-      "since": "2026-10-17"
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
+    },
+    {
+      "repo": "minhaoli/dsh-session-search",
+      "npm": "dsh-session-search",
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "tuogusa/dsh-session-tags",
