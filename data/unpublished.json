@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-18",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 868,
+  "count": 871,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -884,6 +884,13 @@
       "npm": "dsh-account-balance",
       "why": "3 listed repos declare this name and the package states no repository",
       "since": "2026-10-07"
+    },
+    {
+      "repo": "Pheobe-Southwood/dsh-acp-paseo",
+      "path": "packages/dsh-acp-paseo",
+      "npm": "dsh-acp-paseo",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-18"
     },
     {
       "repo": "JimChen-g/dsh-action-outbox",
@@ -2102,6 +2109,18 @@
       "npm": "dsh-grok-geo",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "ikun666666/dsh-groupchat",
+      "npm": "dsh-groupchat",
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
+    },
+    {
+      "repo": "fqxxzyw/dsh-groupchat",
+      "npm": "dsh-groupchat",
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "cdxiaodong/dsh-guardian",
@@ -3411,6 +3430,12 @@
       "npm": "dsh-plugin-scaffold",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "HsgtLgt/dsh-plugin-screenshot",
+      "npm": "dsh-plugin-screenshot",
+      "why": "published by durandalw/dsh-plugin-screenshot",
+      "since": "2026-10-18"
     },
     {
       "repo": "truelove-dreamer/dsh-plugin-security-audit",
@@ -4724,38 +4749,32 @@
     {
       "repo": "Takinggg/dsh-updater",
       "npm": "dsh-updater",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-10-17"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "Jxy-hy/dsh-updater",
       "npm": "dsh-updater",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-10-17"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "onewilk/dsh-updater",
       "npm": "dsh-updater",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-10-17"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "zhuoxuanliu53-svg/dsh-updater",
       "npm": "dsh-updater",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-10-17"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "GodCC6/dsh-updater",
       "npm": "dsh-updater",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-10-17"
-    },
-    {
-      "repo": "mutoharohfiqhiabcd-source/dsh-updater",
-      "npm": "dsh-updater",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-10-17"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-10-18"
     },
     {
       "repo": "beijingwahw/dsh-usage-ledger",
