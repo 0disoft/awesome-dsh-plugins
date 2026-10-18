@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-18",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 867,
+  "count": 868,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -569,6 +569,12 @@
       "npm": "@locallens/dsh-tool-screenshot-ocr",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "LunarCache/dsh-kimi-webbridge",
+      "npm": "@lunarcache/dsh-kimi-webbridge",
+      "why": "no such package",
+      "since": "2026-10-18"
     },
     {
       "repo": "mattismegevand/dsh-dock",
