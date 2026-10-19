@@ -4,9 +4,9 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-10-18",
+  "checked": "2026-10-19",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 871,
+  "count": 870,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -5175,12 +5175,6 @@
       "npm": "geometry-knowledge",
       "why": "published by sdoygb/geometry-knowledge",
       "since": "2026-08-26"
-    },
-    {
-      "repo": "imMamdouhaboammar/get-fable",
-      "npm": "get-fable",
-      "why": "published by immamdouhaboammar/get-fable-core",
-      "since": "2026-10-17"
     },
     {
       "repo": "Cavan-Ou/hermes-dsh-collab",
