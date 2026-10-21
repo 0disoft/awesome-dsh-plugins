@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-21",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 884,
+  "count": 888,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -718,6 +718,12 @@
       "npm": "@riesbri/dsh-tui",
       "why": "published by riesbri/dsh-tui",
       "since": "2026-08-24"
+    },
+    {
+      "repo": "rvaim/dsh-compat",
+      "npm": "@rvaim/dsh-plugin-bridge",
+      "why": "published by rvaim/dsh-plugin-bridge",
+      "since": "2026-10-21"
     },
     {
       "repo": "UABULAJIQL/dsh-gpt-remote-compaction",
@@ -4144,22 +4150,22 @@
       "since": "2026-08-21"
     },
     {
-      "repo": "Huo-yang/dsh-session-trash",
-      "npm": "dsh-session-trash",
-      "why": "3 listed repos declare this name and the package states no repository",
-      "since": "2026-10-19"
-    },
-    {
-      "repo": "vi0let-dev/dsh-session-trash",
-      "npm": "dsh-session-trash",
-      "why": "3 listed repos declare this name and the package states no repository",
-      "since": "2026-10-19"
-    },
-    {
       "repo": "dsh-plugin-db/dsh-session-trash",
       "npm": "dsh-session-trash",
       "why": "3 listed repos declare this name and the package states no repository",
       "since": "2026-10-19"
+    },
+    {
+      "repo": "Huo-yang/dsh-session-trash",
+      "npm": "dsh-session-trash",
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-10-21"
+    },
+    {
+      "repo": "vi0let-dev/dsh-session-trash",
+      "npm": "dsh-session-trash",
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-10-21"
     },
     {
       "repo": "fujunchao/dsh-session-vault",
@@ -5069,6 +5075,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "Yurzi/dsh-web-fetch-enhanced",
+      "npm": "dsh-web-fetch-enhanced",
+      "why": "published by yurzi/dsh-tool-web-enhanced",
+      "since": "2026-10-21"
+    },
+    {
       "repo": "2h0n/dsh-web-notification",
       "npm": "dsh-web-notification",
       "why": "no such package",
@@ -5097,6 +5109,12 @@
       "npm": "dsh-web-restart",
       "why": "3 listed repos declare this name and the package states no repository",
       "since": "2026-10-19"
+    },
+    {
+      "repo": "Yurzi/dsh-web-search-enhanced",
+      "npm": "dsh-web-search-enhanced",
+      "why": "published by yurzi/dsh-tool-web-enhanced",
+      "since": "2026-10-21"
     },
     {
       "repo": "cindyguyuehu123/dsh-webchatlike",
@@ -5133,6 +5151,12 @@
       "npm": "dsh-wikilink",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "loyalchiiina/dsh-workbuddy-hub",
+      "npm": "dsh-workbuddy-hub",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-21"
     },
     {
       "repo": "halosb/dsh-workmate",
