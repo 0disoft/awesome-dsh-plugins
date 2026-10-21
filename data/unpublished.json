@@ -4,7 +4,7 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-10-20",
+  "checked": "2026-10-21",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
   "count": 883,
   "packages": [
@@ -2947,31 +2947,6 @@
       "since": "2026-10-07"
     },
     {
-      "repo": "tianji-qingtian/dsh-model-router",
-      "npm": "dsh-model-router",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-10-19"
-    },
-    {
-      "repo": "thedeveloper256/dsh-model-router",
-      "npm": "dsh-model-router",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-10-19"
-    },
-    {
-      "repo": "zhuzhujunandy/dsh-model-router",
-      "path": "dsh-model-router",
-      "npm": "dsh-model-router",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-10-19"
-    },
-    {
-      "repo": "chillBnetley/dsh-model-router",
-      "npm": "dsh-model-router",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-10-19"
-    },
-    {
       "repo": "Imzl-zl/dsh-model-router",
       "path": "packages/dsh-model-router",
       "npm": "dsh-model-router",
@@ -2979,11 +2954,36 @@
       "since": "2026-10-19"
     },
     {
+      "repo": "tianji-qingtian/dsh-model-router",
+      "npm": "dsh-model-router",
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-10-21"
+    },
+    {
+      "repo": "thedeveloper256/dsh-model-router",
+      "npm": "dsh-model-router",
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-10-21"
+    },
+    {
+      "repo": "zhuzhujunandy/dsh-model-router",
+      "path": "dsh-model-router",
+      "npm": "dsh-model-router",
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-10-21"
+    },
+    {
+      "repo": "chillBnetley/dsh-model-router",
+      "npm": "dsh-model-router",
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-10-21"
+    },
+    {
       "repo": "LiuCrane/dsh-model-router",
       "path": "plugin",
       "npm": "dsh-model-router",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-10-19"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-10-21"
     },
     {
       "repo": "cyberlieflife/dsh-model-thinking",
@@ -3109,28 +3109,28 @@
       "since": "2026-08-21"
     },
     {
-      "repo": "FengYangXun123/dsh-opencode-usage",
-      "npm": "dsh-opencode-usage",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
       "repo": "SyamStud/dsh-opencode-usage",
       "npm": "dsh-opencode-usage",
       "why": "4 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
     },
     {
+      "repo": "FengYangXun123/dsh-opencode-usage",
+      "npm": "dsh-opencode-usage",
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-10-21"
+    },
+    {
       "repo": "zzh799/dsh-opencode-usage",
       "npm": "dsh-opencode-usage",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-10-21"
     },
     {
       "repo": "ColorlessBoy/dsh-opencode-usage",
       "npm": "dsh-opencode-usage",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-10-21"
     },
     {
       "repo": "BeiZi6/dsh-opencodego-usage",
