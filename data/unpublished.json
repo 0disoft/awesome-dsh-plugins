@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-22",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 887,
+  "count": 890,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -390,6 +390,13 @@
       "npm": "@dsh-std/adapter-dsh",
       "why": "published by yan-zero/dsh-std",
       "since": "2026-10-07"
+    },
+    {
+      "repo": "hugefiver/ocmm",
+      "path": "dsmm",
+      "npm": "@dsmm/dsmm",
+      "why": "published by hugefiver/dsmm",
+      "since": "2026-10-22"
     },
     {
       "repo": "entireyu/dsh-webui-plus",
@@ -1899,34 +1906,34 @@
       "since": "2026-08-21"
     },
     {
-      "repo": "ailoushu666/dsh-feishu-bridge",
-      "npm": "dsh-feishu-bridge",
-      "why": "5 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
       "repo": "fengs2021/dsh-feishu-bridge",
       "npm": "dsh-feishu-bridge",
       "why": "5 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
     },
     {
+      "repo": "ailoushu666/dsh-feishu-bridge",
+      "npm": "dsh-feishu-bridge",
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-22"
+    },
+    {
       "repo": "wz-heng/dsh-feishu-bridge",
       "npm": "dsh-feishu-bridge",
-      "why": "5 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-22"
     },
     {
       "repo": "zhbdream/dsh-feishu-bridge",
       "npm": "dsh-feishu-bridge",
-      "why": "5 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-22"
     },
     {
       "repo": "superSizzzz/dsh-feishu-bridge",
       "npm": "dsh-feishu-bridge",
-      "why": "5 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-22"
     },
     {
       "repo": "gsnowdrift/dsh-feishu-reader",
@@ -3782,6 +3789,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "iJetLi/dsh-providers-hub",
+      "npm": "dsh-providers-hub",
+      "why": "published by zhuweiyou/dsh-providers-hub",
+      "since": "2026-10-22"
+    },
+    {
       "repo": "haoliangwu/dsh-pwa",
       "npm": "dsh-pwa",
       "why": "3 listed repos declare this name and the package states no repository",
@@ -4268,6 +4281,12 @@
       "npm": "dsh-skill-browser",
       "why": "4 listed repos declare this name and the package states no repository",
       "since": "2026-09-30"
+    },
+    {
+      "repo": "zhaorui-wu/dsh-skill-cockpit",
+      "npm": "dsh-skill-cockpit",
+      "why": "published by huanlin-labs/dsh-skill-cockpit",
+      "since": "2026-10-22"
     },
     {
       "repo": "SiriusWJ/dsh-skill-manager",
