@@ -1295,6 +1295,13 @@
       "since": "2026-10-09"
     },
     {
+      "repo": "linyuan-ai1/dsh-plugins",
+      "path": "packages/dsh-card-color",
+      "npm": "dsh-card-color",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-22"
+    },
+    {
       "repo": "Chance-Wu/dsh-change-center",
       "npm": "dsh-change-center",
       "why": "no such package",
@@ -3438,12 +3445,6 @@
       "npm": "dsh-plugin-mermaid",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
-    },
-    {
-      "repo": "loeissu/dsh-plugin-mobile-ui",
-      "npm": "dsh-plugin-mobile-ui",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-10-19"
     },
     {
       "repo": "dexwebcode/dsh-plugin-mobile-ui",
