@@ -8,10 +8,10 @@ IM bridges and remote control: Feishu, Telegram, WeCom, DingTalk.
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
-| qq-bridge | 1780 | [Derpyu520/qq-bridge](https://github.com/Derpyu520/qq-bridge) | Bridge between SnowLuma (OneBot v11 / QQ) and DeepSeek Harness Web API: QQ messages become DSH agent prompts, agent replies go back to QQ. | 0.1.1-rc.2 (2026-09-18) |
+| qq-bridge | 1786 | [Derpyu520/qq-bridge](https://github.com/Derpyu520/qq-bridge) | Bridge between SnowLuma (OneBot v11 / QQ) and DeepSeek Harness Web API: QQ messages become DSH agent prompts, agent replies go back to QQ. | 0.1.1-rc.2 (2026-09-18) |
 | dsh-wechat-xcisxc29 | 294 | [xcisxc29/dsh-wechat](https://github.com/xcisxc29/dsh-wechat) | WeChat channel for DeepSeek Harness | 0.2.0-rc.2 (2026-10-17) |
 | dsh-bridge-wenbinwb | 211 | [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) · [npm](https://www.npmjs.com/package/@wenbin_wb/dsh-bridge) | 手机扫码即可在移动端/公网继续用 DeepSeek Harness，人不在电脑前也能接着干。一键局域网二维码、Cloudflare 公网隧道、自建隧道与微信 Bot（多工作区/会话持久化/媒体/审批），无需自己搭公网服务器。 | 0.1.0-rc.8 (2026-08-20) |
-| dsh-qqbot | 199 | [tencent-connect/dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) · [npm](https://www.npmjs.com/package/@tencent-connect/dsh-qqbot) | QQ Bot IM channel plugin for DeepSeek Harness. | 0.1.0-rc.8 (2026-08-20) |
+| dsh-qqbot | 200 | [tencent-connect/dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) · [npm](https://www.npmjs.com/package/@tencent-connect/dsh-qqbot) | QQ Bot IM channel plugin for DeepSeek Harness. | 0.1.0-rc.8 (2026-08-20) |
 | dsh-im-connect | 83 | [MichengAI/dsh-im-connect](https://github.com/MichengAI/dsh-im-connect) · [npm](https://www.npmjs.com/package/@michengai/dsh-im-connect) | DeepSeek Harness IM 助理：把本机 agent 接到微信、企微、钉钉、飞书、QQ、Telegram，会话与网页任务分列。 | 0.1.0-rc.8 (2026-08-20) |
 | dsh-qqbot-gcry1306 | 77 | [zaofan-make/dsh-qqbot](https://github.com/zaofan-make/dsh-qqbot) · [npm](https://www.npmjs.com/package/@zaofan/dsh-qqbot) | QQ Bot IM channel plugin for deepseek-harness (dsh) | 0.1.7-rc.2 (2026-09-29) |
 | deepbot | 71 | [rlaope/deepseek-bot](https://github.com/rlaope/deepseek-bot) · [npm](https://www.npmjs.com/package/deepbot) | A standalone, always-on agent built on DeepSeek Harness. Slack Socket Mode platform adapter + durable sessions + a memory-ready gateway profile. | 0.2.0-rc.2 (2026-10-07) |
