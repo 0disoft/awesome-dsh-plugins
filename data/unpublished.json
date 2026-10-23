@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-23",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 891,
+  "count": 892,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -2713,6 +2713,12 @@
       "npm": "dsh-mcp-settings",
       "why": "published by aka-danielzhang/dsh-desktop",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "Storm-Starlight/dsh-mcp-skills-board",
+      "npm": "dsh-mcp-skills-board",
+      "why": "published by jasperpengc/dsh-mcp-skills-board",
+      "since": "2026-10-23"
     },
     {
       "repo": "yihefeikong-rgb/dsh-cc-haha-memory",
