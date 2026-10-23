@@ -4,7 +4,7 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-10-22",
+  "checked": "2026-10-23",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
   "count": 890,
   "packages": [
@@ -752,6 +752,13 @@
       "since": "2026-10-17"
     },
     {
+      "repo": "FNOSP/fnos-dsh",
+      "path": "plugins/dsh-codebuddy-plugin",
+      "npm": "@tnnevol/dsh-codebuddy",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-23"
+    },
+    {
       "repo": "tradercjz/dsh-dolphindb",
       "npm": "@tradercjz/dsh-dolphindb",
       "why": "no such package",
@@ -835,12 +842,6 @@
     {
       "repo": "ZrSiO4-y/dsh-explorer",
       "npm": "@zrsio4-y/dsh-explorer",
-      "why": "no such package",
-      "since": "2026-08-21"
-    },
-    {
-      "repo": "mang0cola/adb_dsh_plugin",
-      "npm": "adb-dsh-plugin",
       "why": "no such package",
       "since": "2026-08-21"
     },
